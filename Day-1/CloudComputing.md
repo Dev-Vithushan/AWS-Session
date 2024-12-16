@@ -1,7 +1,3 @@
-Here's an introduction to **Cloud Computing** tailored for beginners. You can use this as a foundation for presentations, workshops, or discussions.
-
----
-
 ### **What is Cloud Computing?**  
 Cloud Computing is the delivery of computing services—such as servers, storage, databases, networking, software, analytics, and more—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
