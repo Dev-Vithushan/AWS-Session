@@ -92,4 +92,3 @@ Install web servers, applications, etc.
 
 ---
 
-Would you like the **CLI version**, **Terraform**, or **PDF format** for this?
