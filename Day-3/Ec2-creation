@@ -1,4 +1,4 @@
- **step-by-step guide** to create an **EC2 instance in AWS** using the AWS Management Console:
+Here’s a **step-by-step guide** to create an **EC2 instance in AWS** using the AWS Management Console:
 
 ---
 
@@ -89,4 +89,6 @@ sudo apt update             # For Ubuntu
 ```
 
 Install web servers, applications, etc.
+
+---
 
