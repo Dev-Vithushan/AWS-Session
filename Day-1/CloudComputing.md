@@ -1,6 +1,6 @@
 ### **What is Cloud Computing?**  
 Cloud Computing is the delivery of computing services—such as servers, storage, databases, networking, software, analytics, and more—over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
-
+adding 
 ---
 
 ### **Key Characteristics of Cloud Computing**  
